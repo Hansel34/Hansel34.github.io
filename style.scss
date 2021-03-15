@@ -275,17 +275,12 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  height: auto;
   background-color: $lightGray;
 }
 
 footer {
   padding: 20px 0;
   text-align: center;
-}
-
-.push {
-    height: 50px; /* .push must be the same height as .footer */
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
